@@ -1,0 +1,9 @@
+data,produto,quantidade,preco,vendedor,valor_total
+2023-01-01,Laptop,2.0,1000.0,João,2000.0
+2023-01-02,Mouse,5.0,20.0,Maria,100.0
+2023-01-03,Teclado,3.0,50.0,Pedro,150.0
+2023-01-04,Monitor,1.0,200.0,João,200.0
+2023-01-06,Mouse,4.0,25.0,Pedro,100.0
+2023-01-07,Teclado,1.0,45.0,João,45.0
+2023-01-08,Monitor,2.5,180.0,Maria,450.0
+2023-01-10,Mouse,10.0,15.0,João,150.0
