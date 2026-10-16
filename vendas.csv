@@ -1,11 +1,6 @@
-﻿data;produto;quantidade;preco;vendedor
-2023-01-01;Laptop;2; 1000.00 ;João
-2023-01-02;Mouse;5; 20.00 ;Maria
-2023-01-03;Teclado;3; 50.00 ;Pedro
-2023-01-04;Monitor;1; 200.00 ;João
-2023-01-05;Laptop;; 1200.00 ;Maria
-2023-01-06;Mouse;4; 25.00 ;Pedro
-2023-01-07;Teclado;1; 45.00 ;João
-2023-01-08;Monitor;; 180.00 ;Maria
-2023-01-09;Laptop;1; 1100.00 ;Pedro
-2023-01-10;Mouse;10; 15.00 ;João
+id,produto,quantidade,valor
+1,Notebook,2,2500.00
+2,Smartphone,5,1000.00
+3,Tablet,3,800.00
+4,Fones de ouvido,10,150.00
+5,Smartwatch,4,500.00
